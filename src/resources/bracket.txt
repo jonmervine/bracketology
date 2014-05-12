@@ -1,0 +1,64 @@
+1|Florida
+16|Albany
+8|Colorado
+9|Pittsburgh
+5|Vcu
+12|SF Austin
+4|UCLA
+13|Tulsa
+6|Ohio St.
+11|Dayton
+3|Syracuse
+14|W. Michigan
+7|New MExico
+10|Stanford
+2|Kansas
+15|Eastern KY
+1|UVA
+16|Coastal Carolina
+8|Memphis
+9|George Washington
+5|Cincinnati
+12|Harvard
+4|Michigan St.
+13|Delaware
+6|UNC
+11|Providence
+3|Iowa St.
+14|N.C. Central
+7|Connecticut
+10|Saint Joe's
+2|Villanova
+15|Milwaukee
+1|Arizona
+16|Weber St.
+8|Gonzaga
+9|Oklahoma St.
+5|Oklahoma
+12|N. Dakota St.
+4|San Diego St.
+13|New Mexico St.
+6|Baylor
+11|Nebraska
+3|Creighton
+14|UL-Lafayette
+7|Oregon
+10|BYU
+2|Wisconsin
+15|American
+1|Wichita St.
+16|RND1 Winner #1
+8|Kentucky
+9|Kansas State
+5|Saint Louis
+12|NC State
+4|Louisville
+13|Manhattan
+6|UMass
+11|RND1 Winner #2
+3|Duke
+14|Mercer
+7|Texas
+10|Arizona St
+2|Michigan
+15|Wofford
